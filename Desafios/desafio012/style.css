@@ -49,10 +49,10 @@ main {
 main p {
     width: 100%;
     height: 100%;
-    padding: 40px 0px 40px 25px;
+    padding: 10vh 0px 10vh 30px;
     text-align: left;
-    font-size: 2.5em;
-    line-height: 2;
+    font-size: 3.5vw;
+    line-height: 2em;
 }
 
 .flor {
@@ -61,17 +61,17 @@ main p {
     color: white;
     background-color: black;
     background-position: center center;
-            background-repeat: no-repeat;
-            background-size: cover;
-           
+    background-size: cover;
+    background-attachment: fixed;
+    display: inline-block;
 }
 
 .cartas {
     background-image: url('imagens/background002.jpg');
     color: white;
     background-position: right center;
-            background-repeat: no-repeat;
-            background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 footer {
