@@ -1,0 +1,32 @@
+#form {
+    margin-top: 8.5rem!important;
+}
+
+img {
+    margin-left: 75%;
+}
+
+.card-title {
+    background-color: rgb(221, 217, 217);
+    padding: 15px;
+    margin: -17px -17px 2px -17px;
+    border-radius: 5px 5px 0 0;
+}
+
+footer {
+    width: 75%;
+    background-color: rgb(221, 217, 217);
+    justify-content: end;
+    margin: 30px auto 0 auto;
+    padding: 15px;
+}
+
+footer li {
+    display: inline;
+    margin: 0 7px 0 7px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
